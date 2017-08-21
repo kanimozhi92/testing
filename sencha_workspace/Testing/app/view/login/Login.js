@@ -27,11 +27,13 @@ xt.define('Testing.login.Login',{
 				xtype        : 'textfield',
 				fieldLabel   : 'Username',
 				value        : 'admin',
+				allowBlank   :'false'
 			},{
 				xtype        : 'textfield',
 				inputType    : 'password',
 				fieldLabel   : 'Password',
-				value        : 'admin'
+				value        : 'admin',
+				allowBlank   :'false'
 			}]
 		}]
 	},
