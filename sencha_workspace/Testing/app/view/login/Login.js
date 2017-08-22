@@ -1,4 +1,4 @@
-xt.define('Testing.login.Login',{
+Ext.define('Testing.login.Login',{
 	extend        : 'Ext.window.Window',
 	alias         : 'widget.login',
 	requires      : [
