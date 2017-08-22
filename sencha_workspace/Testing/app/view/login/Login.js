@@ -10,7 +10,7 @@ Ext.define('Testing.login.Login',{
 	closable      : false,	
 	resizable     : false,
 	draggable     : false,
-	title         : 'Welcome to Testin App',
+	title         : 'Welcome to Testing App',
 	controller    : 'login',
 	initComponent : function(){
 		var me = this;
